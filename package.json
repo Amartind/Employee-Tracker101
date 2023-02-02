@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amartind/Employee-Tracker101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amartind/Employee-Tracker101/issues"
+  },
+  "homepage": "https://github.com/Amartind/Employee-Tracker101#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.1.0"
+  }
+}
