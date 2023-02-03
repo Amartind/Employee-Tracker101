@@ -27,6 +27,10 @@ npm i
 Please change your password input in the server.js to reflect your password on line 7, install dependencies with npm i command in terminal. start mysql and source the database with source schema.sql and source seeds.sql to provide default information to see how the app works. Then exit sql and do a node server.js command and you'll start the application
 
 
+https://user-images.githubusercontent.com/112136243/216502796-1dc4e37e-2344-4eae-b0b7-1e5094bfc16b.mp4
+
+
+
 ## Credits (#credits)
     
 No collaborators.
